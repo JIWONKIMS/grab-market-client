@@ -1,0 +1,332 @@
+.div-wrapper {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.div-wrapper .div {
+  background-color: #ffffff;
+  width: 390px;
+  height: 844px;
+  position: relative;
+}
+
+.div-wrapper .line {
+  position: absolute;
+  width: 390px;
+  height: 1px;
+  top: 88px;
+  left: 0;
+  object-fit: cover;
+}
+
+.div-wrapper .frame {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 48px;
+  left: 330px;
+}
+
+.div-wrapper .text-wrapper {
+  height: 24px;
+  top: 50px;
+  left: 154px;
+  font-family: "AppleSDGothicNeoB00-Regular", Helvetica;
+  color: #000000;
+  font-size: 14px;
+  letter-spacing: 0.38px;
+  line-height: 24px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+}
+
+.div-wrapper .overlap {
+  position: absolute;
+  width: 212px;
+  height: 37px;
+  top: 209px;
+  left: 21px;
+  background-color: #f8f8f8;
+}
+
+.div-wrapper .text-wrapper-2 {
+  height: 24px;
+  top: 5px;
+  left: 10px;
+  font-family: "AppleGothic-Regular", Helvetica;
+  color: #979797;
+  font-size: 14px;
+  letter-spacing: 0.38px;
+  line-height: 24px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+}
+
+.div-wrapper .rectangle {
+  position: absolute;
+  width: 212px;
+  height: 37px;
+  top: 0;
+  left: 0;
+  background-color: #f8f8f8;
+}
+
+.div-wrapper .text-wrapper-3 {
+  height: 24px;
+  top: 5px;
+  left: 5px;
+  font-family: "AppleSDGothicNeoB00-Regular", Helvetica;
+  color: #979797;
+  font-size: 14px;
+  letter-spacing: 0.38px;
+  line-height: 24px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+}
+
+.div-wrapper .overlap-group {
+  position: absolute;
+  width: 212px;
+  height: 37px;
+  top: 283px;
+  left: 21px;
+  background-color: #f8f8f8;
+}
+
+.div-wrapper .text-wrapper-4 {
+  height: 24px;
+  top: 5px;
+  left: 6px;
+  font-family: "AppleGothic-Regular", Helvetica;
+  color: #979797;
+  font-size: 14px;
+  letter-spacing: 0.38px;
+  line-height: 24px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+}
+
+.div-wrapper .text-wrapper-5 {
+  height: 24px;
+  top: 5px;
+  left: 4px;
+  font-family: "AppleSDGothicNeoB00-Regular", Helvetica;
+  color: #979797;
+  font-size: 14px;
+  letter-spacing: 0.38px;
+  line-height: 24px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+}
+
+.div-wrapper .overlap-2 {
+  position: absolute;
+  width: 97px;
+  height: 37px;
+  top: 209px;
+  left: 264px;
+  background-color: #858383;
+}
+
+.div-wrapper .text-wrapper-6 {
+  height: 24px;
+  top: 5px;
+  left: 12px;
+  font-family: "AppleGothic-Regular", Helvetica;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0.38px;
+  line-height: 24px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+}
+
+.div-wrapper .rectangle-2 {
+  position: absolute;
+  width: 97px;
+  height: 37px;
+  top: 0;
+  left: 0;
+  background-color: #858383;
+}
+
+.div-wrapper .text-wrapper-7 {
+  height: 24px;
+  top: 5px;
+  left: 10px;
+  font-family: "AppleSDGothicNeoB00-Regular", Helvetica;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0.38px;
+  line-height: 24px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+}
+
+.div-wrapper .overlap-3 {
+  position: absolute;
+  width: 97px;
+  height: 37px;
+  top: 283px;
+  left: 265px;
+  background-color: #858383;
+}
+
+.div-wrapper .text-wrapper-8 {
+  height: 24px;
+  top: 5px;
+  left: 37px;
+  font-family: "AppleGothic-Regular", Helvetica;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0.38px;
+  line-height: 24px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+}
+
+.div-wrapper .text-wrapper-9 {
+  height: 24px;
+  top: 5px;
+  left: 36px;
+  font-family: "AppleSDGothicNeoB00-Regular", Helvetica;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0.38px;
+  line-height: 24px;
+  white-space: nowrap;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+}
+
+.div-wrapper .login-button {
+  position: absolute;
+  width: 295px;
+  height: 43px;
+  top: 562px;
+  left: 46px;
+}
+
+.div-wrapper .frame-login {
+  position: relative;
+  height: 43px;
+  background-color: #52525299;
+  border-radius: 4.22px;
+}
+
+.div-wrapper .text-wrapper-10 {
+  height: 21px;
+  top: 11px;
+  left: 113px;
+  font-family: "AppleSDGothicNeoB00-Regular", Helvetica;
+  color: #ffffff;
+  font-size: 15.2px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  font-weight: 400;
+  text-align: center;
+}
+
+.div-wrapper .vuesax-linear-arrow {
+  position: fixed;
+  width: 36px;
+  height: 36px;
+  top: 45px;
+  left: 21px;
+}
+
+.div-wrapper .status-bar {
+  position: fixed;
+  width: 375px;
+  height: 44px;
+  top: 0;
+  left: 7px;
+}
+
+.div-wrapper .overlap-group-2 {
+  position: relative;
+  height: 33px;
+}
+
+.div-wrapper .notch {
+  position: absolute;
+  width: 375px;
+  height: 30px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.div-wrapper .status-icons {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  position: absolute;
+  top: 16px;
+  left: 292px;
+}
+
+.div-wrapper .network-signal-light {
+  position: relative;
+  width: 20px;
+  height: 14px;
+}
+
+.div-wrapper .wifi-signal-light {
+  position: relative;
+  width: 16px;
+  height: 14px;
+}
+
+.div-wrapper .battery-light {
+  position: relative;
+  width: 25px;
+  height: 14px;
+}
+
+.div-wrapper .time-light {
+  position: absolute;
+  width: 54px;
+  height: 21px;
+  top: 12px;
+  left: 21px;
+}
+
+.div-wrapper .home-indicator {
+  position: fixed;
+  width: 375px;
+  height: 34px;
+  top: 810px;
+  left: 7px;
+}
+
+.div-wrapper .bar {
+  position: relative;
+  width: 134px;
+  height: 5px;
+  top: 21px;
+  left: 120px;
+  background-color: #000000;
+  border-radius: 10px;
+}
