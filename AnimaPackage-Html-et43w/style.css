@@ -1,0 +1,13 @@
+.vuesax-linear-arrow {
+  position: relative;
+  width: 36px;
+  height: 36px;
+}
+
+.vuesax-linear-arrow .img {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 6px;
+  left: 6px;
+}
